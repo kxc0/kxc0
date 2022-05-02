@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 用于展示仓库统计信息 -->
+![](https://github-readme-stats.vercel.app/api?username=kxc0&&theme=dark)
+
