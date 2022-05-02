@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- GitHub 统计卡 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxc0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- GitHub 额外引脚 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kxc0&repo=kxc0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxc0&show_icons=true&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 热门语言卡 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxc0)](https://github.com/anuraghazra/github-readme-stats)
