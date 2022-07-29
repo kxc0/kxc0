@@ -1,4 +1,4 @@
-### Hi there 👋 我是小玖笙
+### Hi there 👋 我是木鱼
 
 <!--
 **kxc0/kxc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
